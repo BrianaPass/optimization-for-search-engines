@@ -1,0 +1,1 @@
+In this project I used semantic HTML elemets for search engine optimization. Search engine optimization is used to enhance a page's ranking in Google and other search engines. A website's traffic may rise as a result of ranking higher in search results since this is one of the primary ways users find material online. In this instance, that's what I did.
